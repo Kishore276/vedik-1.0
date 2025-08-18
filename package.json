@@ -16,7 +16,7 @@
     "@react-navigation/native": "latest",
     "@react-navigation/native-stack": "latest",
     "@supabase/supabase-js": "latest",
-    "expo": "~53.0.0",
+    "expo": "~52.0.37",
     "expo-camera": "latest",
     "expo-linear-gradient": "latest",
     "expo-status-bar": "~2.0.1",
